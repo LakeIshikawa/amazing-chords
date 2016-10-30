@@ -1,0 +1,37 @@
+[intro]:
+sol#-  fa# 
+sol#-  fa# 
+
+[A]:
+sol#-   fa#/la#   si
+fa#   mi
+fa-   sib-7   la7+  mibsus4   mib
+
+sol#-   fa#/la#   si
+fa#   mi
+si   fa#sus4  fa#  fa#sus2  fa#
+
+[B]:
+fa#-  mi/sol#   si-7
+fa#-  mi6
+la/mi   mi  si-7  si-/sol#  do#(sus4????)
+
+fa#-  mi/sol#   si-7
+fa#-  mi6
+la/mi   mi  si-7  do#-  
+
+
+fa#-
+
+(intro) (a) (b)
+
+fa#sus4 fa#
+
+[A2]:
+sol#-   fa#/la#   si
+fa#   do#-7
+si   fa#sus4  fa#  fa#sus2  fa#
+
+(b)
+
+fa#sus4 fa#

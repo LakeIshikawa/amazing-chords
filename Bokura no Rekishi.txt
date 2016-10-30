@@ -1,0 +1,54 @@
+[Intro]:
+mi7+   fa#/mi  fa#/mib  fa#/sol#  sol#-
+mi7+   fa#/mi  fa#/mib  fa#/sol#  sol#-
+mi7+   fa#/mi  fa#/mib  fa#/sol#  sol#-
+mi7+   fa#/mi  fa#/mib  fa#/sol#  sol#-
+do#-7  mi/fa# 
+
+si   si/la  si   si/la
+
+[a]:
+si  si7+  la/si mi/si
+si mib-7  la(7+)  do#-7   mi/fa#
+
+la  mi7
+si  si/la
+
+sol7  la6
+sol#- re#-/fa#  fadim7
+
+
+[rit]:
+mi7+   fa#/mi  fa#/mib  fa#/sol#  sol#-
+mi7+   fa#/mi  fa#/mib  fa#/sol#  sol#-
+do#-7  mi/fa#
+
+
+si  si/la  si   si/la
+sol7+  mi/fa# 
+
+
+(a) (rit)
+
+si  mi   sol#- fa#
+
+[b]:
+la6/si  re#-7/si  la7+/si  si
+si/la  sol#-7 do#-79 
+mi/fa#  lab-6/mib  mib7
+
+[rit2]
+mi7+   fa#/mi  fa#/mib  fa#/sol#  sol#-
+mi7+   fa#/mi  fa#/mib  fa#/sol#  sol#-
+
+mi7+   fa#/mi  fa#/mib  fa#/sol#  sol#-
+mi7+   fa#/mi  fa#/mib  fa#/sol#  sol#-
+
+mi7+   fa#/mi  fa#/mib  fa#/sol#  sol#-
+mi7+   fa#/mi  fa#/mib  fa#/sol#  sol#-
+
+do#-7  mi/fa# 
+
+si  si/la  mi/sol#  do#-7  mi/fa# 
+si   si/la  si   si/la
+si   si/la  si   si/la 

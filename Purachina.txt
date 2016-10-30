@@ -1,0 +1,50 @@
+Intro:
+la4sus/sol la4sus/fa# si-7
+do mi-7 sol/la
+
+A:
+re fa#-7 sol7+9
+sol-7 sib/do do7 fa7+9
+mi-7 sol/la re- la-/do
+sol7+/la
+
+si- sol7+ la
+la si do#- lab-7
+si do# mib-
+mi/fa# fa#
+si-/do
+
+rit:
+si7+ fa#/do# mib-7
+lab-7 si/do# mi/fa#
+mi/mib mi mi/fa
+
+rit2:
+si7+ fa#/do# mib-7
+lab-7 sib-7 sib7 
+mib- sib-/reb mib-/do
+sisus2/lab si6/do#
+
+B:
+fa#7+9 mi/re si-/re si6/do#
+fa#7+9 mi/re si-/re si6/do#
+
+intro2:
+lasus2
+sol7+ sol7+/fa# mi-7+9 solsus2/do
+
+(A) (rit) (rit2)
+
+C:
+fa#/la# si7+ do# mib-
+fa#/la# si7+ fa#
+si/mib fa#/do# lab-7/si fa#/do#
+
+(C) (C)
+
+C2:
+fa#/la# si7+
+do# re7+ mi/la si7+9/do#
+
+(rit) (rit) (rit2)
+(B)

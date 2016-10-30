@@ -1,0 +1,61 @@
+[intro]:
+mib/lab  lab  mib/lab  reb/lab  mib/lab  reb/lab
+fa-  sib   fa#9/reb  lab
+
+[a]:
+lab  mib/la   reb/lab  lab  mib/sol
+fa-7  sibsus479  sib7  mibsus4  mib
+
+reb7+  mib/reb  lab/do  reb-/si  
+lab/mib  mib-7
+
+
+[a2]:
+reb7+ do-7 si-7 lab mib/sol
+fa-7  sibsus479  sib7  mibsus4  mib
+
+reb7+  mib/reb  lab/do  reb-/si  
+fa-7 sibsus47  sib7
+
+
+[b]:
+reb7+ do-7 si-7 reb/mib
+reb7+ do-7 si-7 reb/mib
+reb7+ do-7 si-7 reb/mib
+lab7+
+
+reb7+ do-7 si-7 reb/mib
+reb7+ do-7 si-7 reb/mib
+reb7+ do-7 si-7 reb/mib
+lab7+ reb/la la7+ reb/la
+
+(a)
+
+
+[a3]:
+reb7+ do-7 si-7 fa-7
+lab/re  solsus5#  sol  re#/fa#  fasus5#7  fa7
+
+reb7+  mib/reb  lab/do  reb-/si  
+fa-7  sibsus47  sib7
+
+
+[b2]:
+reb7+ do-7 si-7 reb/mib
+reb7+ do-7 si-7 reb/mib
+reb7+ do-7 si-7 reb/mib
+lab9  mi/re
+
+reb7+ do-7 si-7 reb/mib
+reb7+ do-7 si-7 reb/mib
+reb7+ do-7 si-7 reb/mib
+lab9
+
+
+[c]:
+lab  lab/fa#  fa-7  lab/mi
+lab/mib  fa-6/re sib-7/mib lab
+lab  lab/fa#  fa-7  lab/mi
+lab/mib  fa-6/re sib-7/mib lab
+lab  lab/fa#  fa-7  lab/mi
+lab/mib  fa-6/re sib-7/mib lab

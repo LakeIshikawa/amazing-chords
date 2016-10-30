@@ -1,0 +1,47 @@
+Fa Mib/Fa
+
+A:
+Fa Lab6 Mib/Sol Sib
+Mib/Sol Do4sus Lab Sib Do(4sus)
+Fa Lab6 Mib/Sol Sib
+Mib/Sol Do4sus Lab Sib Do(4sus)
+
+B:
+Fa Reb7+ Mib2sus Sib-7 
+Reb7+ Mib2sus Lab/Mib Mib2sus
+Fa Reb7+ Mib2sus Sib-7 
+Reb7+ Mib2sus
+
+C:
+Sib Do/Sib Sib-7 Mib/Sib
+
+D:
+Fa Sol-/Do Lab Mib/Sol Lab Mib/Sol
+Fa Sol-/Do Lab Mib/Sol
+Sib Lab Do(4sus)
+
+(A) (B) (C) (D)
+
+E:
+Fa4sus/Re Fa/Re Do4sus Do
+Fa4sus/Re Fa/Re Do4sus Do
+Fa4sus/Re Fa/Re Do4sus Do
+Fa-/Lab Fa- Mib/Sol Mi
+Sib- Fa-/Lab Sib Do4sus Do
+
+F:
+Fa Mib/Sol Reb Lab2sus
+Fa Mib/Sol Reb Lab2sus
+Do4sus Do
+
+D2:
+Fa Sol-7 Lab Mib/Sol Lab Mib/Sol
+Fa Sol-7 Lab Mib/Sol Lab Mib/Sol
+Fa Sol-7 Sib-7 Mib/Sol Lab Mib/Sol
+Fa Sol-7 Sib-7 Mib/Sol
+Sib Lab Do(4sus)
+
+A2:
+Fa Lab6 Mib/Sol Sib
+Mib/Sol Do4sus
+Lab Sol-7 Do#/Fa# Do# Fa4sus Fa
