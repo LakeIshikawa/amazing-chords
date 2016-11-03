@@ -17,4 +17,10 @@ rit:
 la9 si49/la la9 lasus67 mi67/mi
 la9 si4/la la9 lasus67 do#-7
 
-(intro) (a) (intro)  (intro bis) (intro)
+(intro) (a) (rit)  
+
+rit bis:
+la9 si49/la la9 lasus67 mi67/mi
+la9/do#>mi si4/mi la9/mi lasus67/do#>mi>fa#>mi do#-7
+
+(intro)
