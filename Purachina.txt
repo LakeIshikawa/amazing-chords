@@ -12,26 +12,27 @@ si- sol7+ la
 la si do#- lab-7
 si do# mib-
 mi/fa# fa#
-si-/do
+[si-/do] fa#/fa#>do
 
 rit:
-si7+ fa#/do# mib-7
-lab-7 si/do# mi/fa#
+[si7+]fa#/si (do#7/si) fa#/do# mib-7
+[lab-7]sisus2/lab si/do# mi/fa#
 mi/mib mi mi/fa
 
 rit2:
-si7+ fa#/do# mib-7
-lab-7 sib-7 sib7 
+[si7+]fa#/si (do#7/si) fa#/do# mib-7
+lab4sus-7(oppure sisus2/lab) [sib-7] sib7 
 mib- sib-/reb mib-/do
-sisus2/lab si6/do#
+sisus2/lab (fa/lab) si6/do#
 
 B:
-fa#7+9 mi/re si-/re si6/do#
-fa#7+9 mi/re si-/re si6/do#
+fa#7+9 [mi/re] re/mi [si-/re] si-sus2/re si26/do#
+fa#7+9 [mi/re] re/mi [si-/re] si-sus2/re(oppure la6/re) si26/do#
 
+-------------ancora da vedere-------------
 intro2:
-lasus2
-sol7+ sol7+/fa# mi-7+9 solsus2/do
+lasus2  mi-7/la
+sol7+ [sol7+/fa#]sol/fa# mi-7+9 solsus2/do
 
 (A) (rit) (rit2)
 
