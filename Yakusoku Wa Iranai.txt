@@ -1,59 +1,62 @@
 re
 
-A:
+=========(A)============
+
 re  (re4/fa#)
 si- (re4/la)
 sol7 (resus2/fa#)
-re-/fa  (re-9/fa)  re-/fa 
+re-/fa  (re-9/fa)  fa7+ 
 mi-7 (si-/fa#)
 
-solsus2 lasus47
 
-(A)
+sol  (sol7+)  Lasus47
+
+
+>> (A)
 
 sib/sol  la-7 
 
-B:
-sib7+9/do  do7+/re
-mib7+/fa sib7+
-si-7/mi sol7+9  lasus47
+=========(B)============
+Sib/Do  Do/Re
+Mib/Fa  Sib7+
+si-7  (re/fa#)  re/sol  lasus47
 
-rit:
+=========(Rit)============
 re  (re/fa#)
 si-7 (re/la)
 sol79  (re/fa#)
-mi-79  mi-/la
+mi-7  mi-/la
 si-7  re/fa#  
 sol7    lasus47
 
 re  (re/fa# )
 si-7 (re/la)
-sib7+/sol  sol-7/do
-mi-79   mi-79/la
+sib7+/sol  sol-/do
+mi-79/mi    mi-79/la
 re
 
-C:
-re-7/do   do7+/re
-re-7/do   do7+/re
-mi-79  mi-79/la
+=========(C)============
+re-7/do    mi-7/do
+re-7/do   si-7/si>la
+mi-79/la
 
-(A)
+>> (A) 
 
 solsus2 lasus47
 
-A2:
+=========(A2)============
 re  (re4/fa#)
 si- (re4/la)
 sol7 (resus2/fa#)
-sib7+/fa fa7+ mi-7 
+sib7+ fa7+ mi-7 
 
-sol-7  la-7 
+sib/sol  la-7 
 
-(B) (rit)
+>> (B) (Rit)
 
-C:
+=========(D)============
 bichord re+la
-sol-7   la-7  sib7+  sol-/do
+sib7+ la-7  sib6  sol/la
 
 (rit) (rit) (rit)
 re
