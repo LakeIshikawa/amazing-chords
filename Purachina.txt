@@ -3,31 +3,31 @@ la4sus/sol la4sus/fa# si-7
 do mi-7 sol/la
 
 A:
-re fa#-7 sol7+9
-sol-7 sib/do do7 fa7+9
+re resus2/fa# sol7+9
+sol-7 sol-sus7/do do7 fa7+9
 mi-7 sol/la re- la-/do
 sol7+/la
 
 si- sol7+ la
 la si do#- lab-7
 si do# mib-
-mi/fa# fa#
-[si-/do] fa#/fa#>do
+do#-sus47  do#-sus47/fa#
+fa#sus4  fa#sus4/do
 
 rit:
-[si7+]fa#/si (do#7/si) fa#/do# mib-7
-[lab-7]sisus2/lab si/do# mi/fa#
-mi/mib mi mi/fa
+si7+9(si7+9  si7+4) fa#/la# mib-7
+sisus2/lab si/do# do#-sus47/fa#
+fa#sus4/mib fa#sus4/mi fa#sus47/fa
 
 rit2:
-[si7+]fa#/si (do#7/si) fa#/do# mib-7
-lab4sus-7(oppure sisus2/lab) [sib-7] sib7 
-mib- sib-/reb mib-/do
+si7+9(si7+9  si7+4) fa#/la# mib-7
+sisus2/lab fa#/la# fa#5+/la#>re 
+mib- do#-6/do# mib-7/do
 sisus2/lab (fa/lab) si6/do#
 
 B:
-fa#7+9 [mi/re] re/mi [si-/re] si-sus2/re si26/do#
-fa#7+9 [mi/re] re/mi [si-/re] si-sus2/re(oppure la6/re) si26/do#
+fa#7+9 re/mi  resus6/do# do#sus47
+fa#7+9 re/mi  re7+  do#sus4
 
 -------------ancora da vedere-------------
 intro2:
