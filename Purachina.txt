@@ -4,7 +4,7 @@ do mi-7 sol/la
 
 A:
 re resus2/fa# sol7+9
-sol-7 sol-sus7/do do7 fa7+9
+sol-7 dosus47 do7 fa7+9
 mi-7 sol/la re- la-/do
 solsus27+/la
 
@@ -15,13 +15,15 @@ do#-sus47  do#-sus47/fa#
 fa#sus4  fa#sus4/do
 
 rit:
-si7+9(si7+9  si7+4) fa#/la# mib-7
-sisus2/lab si/do# 
+si7+9(si7+9 si7+4) 
+fa#/la# mib-7
+sisus2/lab   si/do# 
 do#-sus47/fa#
 fa#sus4/mib fa#sus4/mi fa#sus47/fa
 
 rit2:
-si7+9(si7+9  si7+4) fa#/la# mib-7
+si7+9(si7+9 si7+4) 
+fa#/la# mib-7
 sisus2/lab fa#/la# fa#5+/la#>re 
 mib- do#-6/do# mib-7/do
 sisus2/lab (si/lab) si(6)/do#
@@ -32,9 +34,10 @@ fa#7+9 re/mi  re7+  do#sus4
 
 
 intro2:
-lasus2  mi-7/la
-sol7+ [sol7+/fa#]sol/fa# mi-7+9 solsus2/do
-
+lasus2  la5sus7/la
+//sol7+ [sol7+/fa#]sol/fa# mi-7+9 solsus2/do
+re/sol si-/fa# sol/mi
+solsus2/do
 (A) (rit) (rit2)
 
 C:
@@ -47,6 +50,10 @@ si/mib fa#/do# lab-7/si fa#/do#
 C2:
 fa#/la# si
 do# re mi/la do#sus47  do#sus7
+
+rit bis:
+sisus2/si fa#/la#  mib
+sisus2/lab  mi/fa#  mi5+/do
 
 (rit) (rit) (rit2)
 (B)
